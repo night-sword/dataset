@@ -1,0 +1,1712 @@
+[
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 5X",
+    "os": "Android 5",
+    "version": 5
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Holly 2 Plus",
+    "os": "Android 5",
+    "version": 5
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 5c",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor V8",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 5A",
+    "os": "Android 5",
+    "version": 5
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Note 8",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Holly 3",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 6X",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Magic",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8 Pro",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 6A",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 6C Pro",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 7X",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor V10",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9 Lite",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 7A",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 7C",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 10",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 7S",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9N",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Play",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Note 10",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8X/Max",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8C",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Magic 2/3D",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 10 Lite",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor V20",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Play 8A",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8A Pro",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20 lite",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20i",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20 Pro",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9X (China)",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9X Pro",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Play 3/3e",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20S",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20 lite (China)",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9X",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor V30/30 Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8A Prime",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Play 9A",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 30S",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Play 4T/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8A 2020",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 20e",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 30/Pro/Pro+",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9X Lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 9C/9S/9A",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor X10",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 8S 2020",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor Play4/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 30 Lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor X10 Max",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 30i",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Honor 10X Lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor V40",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor V40 Lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Play 5T Youth",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Play 20",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Play 5",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor 50/Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor 50 SE",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor X20 SE",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Play 5T Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Magic3/Pro/Pro+",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor X20",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Play 5 Youth",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor 50 Lite",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor X30 Max/X30i",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor 60/Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor X30",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Honor",
+    "device_model": "Honor Play 30 Plus",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Enjoy 7 Plus",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 9",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P10",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 2/Plus",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 10 Lite",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 10",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P20",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 3i/P Smart+",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 3",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 20",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 4",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 4e",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P30",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P30 lite",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 5/5i/Pro",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 5i Pro",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 5T",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 30",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 5z",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 6/5G/SE",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Y7p",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 7i",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P40 lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P40 lite E",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P40",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 7/Pro/SE",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P40 lite 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 7 SE 5G Youth",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 40",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 8 SE",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 8 5G/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate X2",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 8 Pro 4G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 8i",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 8 SE Youth",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P50/Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Enjoy 20e",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 9",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova Y60",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei P50 Pocket",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 9 SE",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 9 SE 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova Y70/Plus",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova Y90",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate Xs 2",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 10",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Mate 50/Pro/RS",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova 10 SE",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Huawei",
+    "device_model": "Huawei Nova Y61",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Q51",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG V60 ThinQ",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Velvet",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Stylo 6",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Q61",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG K31",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Q92 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG K22",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG K42/K71",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Q31",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Wing",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG Q52",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG K52/K62",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG K92 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG W31/+",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "LG",
+    "device_model": "LG W41/+/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z11",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia N1",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z11 mini S",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia M2/lite",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia N2",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia N1 lite",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z17 mini",
+    "os": "Android 6",
+    "version": 6
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z17",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z17 lite",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z17 miniS",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z17s",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia N3",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia V18",
+    "os": "Android 7",
+    "version": 7
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z18 mini",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z18",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia X",
+    "os": "Android 8",
+    "version": 8
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic Mars",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic 3",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Z20",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic 3s",
+    "os": "Android 9",
+    "version": 9
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Play",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic 5G Lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic 5S",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "ZTE",
+    "device_model": "Nubia Red Magic 6/Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno3 5G/Pro 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno3 Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Find X2/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno3",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Ace2",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A52",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A72/A92s",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Find X2 Lite/Neo",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A92",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno4 5G/Pro 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A72 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno4/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo F17/Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno4 SE",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno4 Lite",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno4 Z 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A93/Reno4 F",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A73",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A73 5G",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno5 5G/Pro 5G/Pro+ 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno5",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Find X3/Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Find X3 Neo/Lite",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A94",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo F19 Pro/Pro+",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno5 Lite/F",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno5 Z",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo F19",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A35",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A94 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A95 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A54 5G/A74 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A74",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A53s 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo K9",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno6 5G/Pro/Pro+",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A16",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno6",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A16s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno6 Z",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno6 Pro (Snapdragon)",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo K9 Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo F19s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A55",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo K9s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A56 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A54s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A16k",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A95",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno7 (China)/Pro/SE",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Frind N",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo K9x",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A11s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A36",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A96 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno6 Lite",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno7",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A76",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Find X5/Pro",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Find X5 Lite",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo Reno7 Z",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A16e",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo A96",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Oppo",
+    "device_model": "Oppo K10",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO F2 Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M2 Pro",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO X3 NFC",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M2",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO X3",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO C3",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M3",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO X3 Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO F3",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M2 Reloaded",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M3 Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO F3 GT",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO X3 GT",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO C31",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M4 Pro 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M4 Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO X4 Pro 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO F4 GT",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M4 5G",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO C40",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO X4 GT",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO F4",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Xiaomi",
+    "device_model": "POCO M5/M5s",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme Narzo 30 Pro/30A",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C21",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C25",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme 8/Pro",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme V13",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT Neo",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme X7 Pro Ultra",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme 8 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme Q3/Pro/3i",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C20A",
+    "os": "Android 10",
+    "version": 10
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme narzo 30",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT Neo Flash",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme Q3 Pro Carnival",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme narzo 30 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme X7 Max",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C25s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C11 2021",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C21Y",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT Master Edition",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT Explorer Master Edition",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme 8i/8s 5G",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C25Y",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT Neo2",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme V11s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme narzo 50A/50i",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme Q3s",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT Neo2T",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme Q3t",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme GT2/Pro",
+    "os": "Android 12",
+    "version": 12
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme 9i",
+    "os": "Android 11",
+    "version": 11
+  },
+  {
+    "manufacturer": "Realme",
+    "device_model": "Realme C35",
+    "os": "Android 11",
+    "version": 11
+  }
+]

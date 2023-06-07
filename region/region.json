@@ -1,0 +1,1148 @@
+{
+  "EC": {
+    "timezone": "America/Guayaquil",
+    "language": "es",
+    "code": "EC",
+    "cname": "厄瓜多尔"
+  },
+  "BR": {
+    "timezone": "America/Sao_Paulo",
+    "language": "pt-br",
+    "code": "BR",
+    "cname": "巴西"
+  },
+  "MX": {
+    "timezone": "America/Mexico_City",
+    "language": "es",
+    "code": "MX",
+    "cname": "墨西哥"
+  },
+  "CO": {
+    "timezone": "America/Bogota",
+    "language": "es",
+    "code": "CO",
+    "cname": "哥伦比亚"
+  },
+  "ID": {
+    "timezone": "Asia/Jakarta",
+    "language": "id",
+    "code": "ID",
+    "cname": "印度尼西亚"
+  },
+  "PH": {
+    "timezone": "Asia/Manila",
+    "language": "en",
+    "code": "PH",
+    "cname": "菲律宾"
+  },
+  "PE": {
+    "timezone": "America/Lima",
+    "language": "es",
+    "code": "PE",
+    "cname": "秘鲁"
+  },
+  "EG": {
+    "timezone": "Africa/Cairo",
+    "language": "ar",
+    "code": "EG",
+    "cname": "埃及"
+  },
+  "TR": {
+    "timezone": "Asia/Istanbul",
+    "language": "tr",
+    "code": "TR",
+    "cname": "土耳其"
+  },
+  "AR": {
+    "timezone": "America/Argentina/Buenos_Aires",
+    "language": "es",
+    "code": "AR",
+    "cname": "阿根廷"
+  },
+  "CL": {
+    "timezone": "America/Santiago",
+    "language": "es",
+    "code": "CL",
+    "cname": "智利"
+  },
+  "VE": {
+    "timezone": "America/Caracas",
+    "language": "es",
+    "code": "VE",
+    "cname": "委内瑞拉"
+  },
+  "BO": {
+    "timezone": "America/La_Paz",
+    "language": "es",
+    "code": "BO",
+    "cname": "玻利维亚"
+  },
+  "IN": {
+    "timezone": "Asia/Calcutta",
+    "language": "en",
+    "code": "IN",
+    "cname": "印度"
+  },
+  "JP": {
+    "timezone": "Asia/Tokyo",
+    "language": "ja",
+    "code": "JP",
+    "cname": "日本"
+  },
+  "TH": {
+    "timezone": "Asia/Bangkok",
+    "language": "th",
+    "code": "TH",
+    "cname": "泰国"
+  },
+  "MY": {
+    "timezone": "Asia/Kuala_Lumpur",
+    "language": "ml",
+    "code": "MY",
+    "cname": "马来西亚"
+  },
+  "VN": {
+    "timezone": "Asia/Ho_Chi_Minh",
+    "language": "vi",
+    "code": "VN",
+    "cname": "越南"
+  },
+  "RU": {
+    "timezone": "Asia/Moscow",
+    "language": "ru",
+    "code": "RU",
+    "cname": "俄罗斯"
+  },
+  "SG": {
+    "timezone": "Asia/Singapore",
+    "language": "en",
+    "code": "SG",
+    "cname": "新加坡"
+  },
+  "BD": {
+    "timezone": "Asia/Dhaka",
+    "language": "bn",
+    "code": "BD",
+    "cname": "孟加拉国"
+  },
+  "KR": {
+    "timezone": "Asia/Seoul",
+    "language": "ko",
+    "code": "KR",
+    "cname": "韩国"
+  },
+  "AZ": {
+    "timezone": "Asia/Baku",
+    "language": "az",
+    "code": "AZ",
+    "cname": "阿塞拜疆"
+  },
+  "PA": {
+    "timezone": "America/Panama",
+    "language": "es",
+    "code": "PA",
+    "cname": "巴拿马"
+  },
+  "JO": {
+    "timezone": "Asia/Amman",
+    "language": "ar",
+    "code": "JO",
+    "cname": "约旦"
+  },
+  "OM": {
+    "timezone": "Asia/Amman",
+    "language": "ar",
+    "code": "OM",
+    "cname": "阿曼苏丹国"
+  },
+  "KZ": {
+    "timezone": "Asia/Almaty",
+    "language": "kk",
+    "code": "KZ",
+    "cname": "哈萨克斯坦"
+  },
+  "SA": {
+    "timezone": "Asia/Riyadh",
+    "language": "ar",
+    "code": "SA",
+    "cname": "沙特阿拉伯"
+  },
+  "UK": {
+    "timezone": "Europe/London",
+    "language": "en",
+    "code": "UK",
+    "cname": "英国"
+  },
+  "DO": {
+    "timezone": "America/Santo_Domingo",
+    "language": "es",
+    "code": "DO",
+    "cname": "多米尼加共和国"
+  },
+  "FK": {
+    "timezone": "Atlantic/Stanley",
+    "language": "en",
+    "code": "FK",
+    "cname": "福克兰群岛（马尔维纳斯群岛）"
+  },
+  "GF": {
+    "timezone": "America/Cayenne",
+    "language": "fr",
+    "code": "GF",
+    "cname": "法属圭亚那"
+  },
+  "GY": {
+    "timezone": "America/Guyana",
+    "language": "en",
+    "code": "GY",
+    "cname": "圭亚那"
+  },
+  "PY": {
+    "timezone": "America/Asuncion",
+    "language": "es",
+    "code": "PY",
+    "cname": "巴拉圭"
+  },
+  "SR": {
+    "timezone": "America/Paramaribo",
+    "language": "nl",
+    "code": "SR",
+    "cname": "苏里南"
+  },
+  "UY": {
+    "timezone": "America/Montevideo",
+    "language": "es",
+    "code": "UY",
+    "cname": "乌拉圭"
+  },
+  "CA": {
+    "timezone": "America/Toronto",
+    "language": "en",
+    "code": "CA",
+    "cname": "加拿大"
+  },
+  "US": {
+    "timezone": "America/New_York",
+    "language": "en",
+    "code": "US",
+    "cname": "美国"
+  },
+  "BZ": {
+    "timezone": "America/Belize",
+    "language": "en",
+    "code": "BZ",
+    "cname": "伯利兹"
+  },
+  "CR": {
+    "timezone": "America/Costa_Rica",
+    "language": "es",
+    "code": "CR",
+    "cname": "哥斯达黎加"
+  },
+  "CU": {
+    "timezone": "America/Havana",
+    "language": "es",
+    "code": "CU",
+    "cname": "古巴"
+  },
+  "SV": {
+    "timezone": "America/El_Salvador",
+    "language": "es",
+    "code": "SV",
+    "cname": "萨尔瓦多"
+  },
+  "GT": {
+    "timezone": "America/Guatemala",
+    "language": "es",
+    "code": "GT",
+    "cname": "危地马拉"
+  },
+  "HT": {
+    "timezone": "America/Port-au-Prince",
+    "language": "fr",
+    "code": "HT",
+    "cname": "海地"
+  },
+  "HN": {
+    "timezone": "America/Tegucigalpa",
+    "language": "es",
+    "code": "HN",
+    "cname": "洪都拉斯"
+  },
+  "JM": {
+    "timezone": "America/Jamaica",
+    "language": "en",
+    "code": "JM",
+    "cname": "牙买加"
+  },
+  "NI": {
+    "timezone": "America/Managua",
+    "language": "es",
+    "code": "NI",
+    "cname": "尼加拉瓜"
+  },
+  "PR": {
+    "timezone": "America/Puerto_Rico",
+    "language": "es",
+    "code": "PR",
+    "cname": "波多黎各"
+  },
+  "TT": {
+    "timezone": "America/Port_of_Spain",
+    "language": "en",
+    "code": "TT",
+    "cname": "特立尼达和多巴哥"
+  },
+  "AL": {
+    "code": "AL",
+    "language": "sq",
+    "timezone": "Europe/Tirane",
+    "cname": "阿尔巴尼亚"
+  },
+  "AD": {
+    "code": "AD",
+    "language": "ca",
+    "timezone": "Europe/Andorra",
+    "cname": "安道尔"
+  },
+  "AT": {
+    "code": "AT",
+    "language": "de",
+    "timezone": "Europe/Vienna",
+    "cname": "奥地利"
+  },
+  "BY": {
+    "code": "BY",
+    "language": "be",
+    "timezone": "Europe/Minsk",
+    "cname": "白俄罗斯"
+  },
+  "BE": {
+    "code": "BE",
+    "language": "nl",
+    "timezone": "Europe/Brussels",
+    "cname": "比利时"
+  },
+  "BA": {
+    "code": "BA",
+    "language": "bs",
+    "timezone": "Europe/Sarajevo",
+    "cname": "波斯尼亚和黑塞哥维那"
+  },
+  "BG": {
+    "code": "BG",
+    "language": "bg",
+    "timezone": "Europe/Sofia",
+    "cname": "保加利亚"
+  },
+  "HR": {
+    "code": "HR",
+    "language": "hr",
+    "timezone": "Europe/Zagreb",
+    "cname": "克罗地亚"
+  },
+  "CY": {
+    "code": "CY",
+    "language": "el",
+    "timezone": "Asia/Nicosia",
+    "cname": "塞浦路斯"
+  },
+  "CZ": {
+    "code": "CZ",
+    "language": "cs",
+    "timezone": "Europe/Prague",
+    "cname": "捷克"
+  },
+  "DK": {
+    "code": "DK",
+    "language": "da",
+    "timezone": "Europe/Copenhagen",
+    "cname": "丹麦"
+  },
+  "EE": {
+    "code": "EE",
+    "language": "et",
+    "timezone": "Europe/Tallinn",
+    "cname": "爱沙尼亚"
+  },
+  "FO": {
+    "code": "FO",
+    "language": "fo",
+    "timezone": "Atlantic/Faroe",
+    "cname": "法罗群岛"
+  },
+  "FI": {
+    "code": "FI",
+    "language": "fi",
+    "timezone": "Europe/Helsinki",
+    "cname": "芬兰"
+  },
+  "FR": {
+    "code": "FR",
+    "language": "fr",
+    "timezone": "Europe/Paris",
+    "cname": "法国"
+  },
+  "DE": {
+    "code": "DE",
+    "language": "de",
+    "timezone": "Europe/Berlin",
+    "cname": "德国"
+  },
+  "GR": {
+    "code": "GR",
+    "language": "el",
+    "timezone": "Europe/Athens",
+    "cname": "希腊"
+  },
+  "TW": {
+    "code": "TW",
+    "language": "zh",
+    "timezone": "Asia/Taipei",
+    "cname": "台湾"
+  },
+  "AF": {
+    "code": "AF",
+    "language": "ps",
+    "timezone": "Asia/Kabul",
+    "cname": "阿富汗"
+  },
+  "IR": {
+    "code": "IR",
+    "language": "fa",
+    "timezone": "Asia/Tehran",
+    "cname": "伊朗"
+  },
+  "IQ": {
+    "code": "IQ",
+    "language": "ar",
+    "timezone": "Asia/Baghdad",
+    "cname": "伊拉克"
+  },
+  "KW": {
+    "code": "KW",
+    "language": "ar",
+    "timezone": "Asia/Kuwait",
+    "cname": "科威特"
+  },
+  "KG": {
+    "code": "KG",
+    "language": "ky",
+    "timezone": "Asia/Bishkek",
+    "cname": "吉尔吉斯斯坦"
+  },
+  "LB": {
+    "code": "LB",
+    "language": "ar",
+    "timezone": "Asia/Beirut",
+    "cname": "黎巴嫩"
+  },
+  "MV": {
+    "code": "MV",
+    "language": "dv",
+    "timezone": "Indian/Maldives",
+    "cname": "马尔代夫"
+  },
+  "MN": {
+    "code": "MN",
+    "language": "mn",
+    "timezone": "Asia/Ulaanbaatar",
+    "cname": "蒙古"
+  },
+  "NP": {
+    "code": "NP",
+    "language": "ne",
+    "timezone": "Asia/Kathmandu",
+    "cname": "尼泊尔"
+  },
+  "UZ": {
+    "code": "UZ",
+    "language": "uz",
+    "timezone": "Asia/Tashkent",
+    "cname": "乌兹别克斯坦"
+  },
+  "YE": {
+    "code": "YE",
+    "language": "ar",
+    "timezone": "Asia/Aden",
+    "cname": "也门"
+  },
+  "ZA": {
+    "code": "ZA",
+    "language": "en",
+    "timezone": "Africa/Johannesburg",
+    "cname": "南非"
+  },
+  "IL": {
+    "code": "IL",
+    "language": "he",
+    "timezone": "Asia/Jerusalem",
+    "cname": "以色列"
+  },
+  "AU": {
+    "code": "AU",
+    "language": "en",
+    "timezone": "Australia/Sydney",
+    "cname": "澳大利亚"
+  },
+  "NZ": {
+    "code": "NZ",
+    "language": "en",
+    "timezone": "Pacific/Auckland",
+    "cname": "新西兰"
+  },
+  "IT": {
+    "code": "IT",
+    "language": "it",
+    "timezone": "Europe/Rome",
+    "cname": "意大利"
+  },
+  "NG": {
+    "code": "NG",
+    "language": "en",
+    "timezone": "Africa/Lagos",
+    "cname": "尼日利亚"
+  },
+  "MA": {
+    "code": "MA",
+    "language": "ar",
+    "timezone": "Africa/Casablanca",
+    "cname": "摩洛哥"
+  },
+  "LK": {
+    "code": "LK",
+    "language": "si",
+    "timezone": "Asia/Colombo",
+    "cname": "斯里兰卡"
+  },
+  "USV": {
+    "timezone": "America/New_York",
+    "language": "en",
+    "code": "USV",
+    "cname": "美国虚拟卡"
+  },
+  "GN": {
+    "code": "GN",
+    "language": "fr",
+    "timezone": "Africa/Conakry",
+    "cname": "几内亚"
+  },
+  "HK": {
+    "code": "HK",
+    "language": "zh",
+    "timezone": "Asia/Hong_Kong",
+    "cname": "中国香港"
+  },
+  "AE": {
+    "code": "AE",
+    "language": "ar",
+    "timezone": "Asia/Dubai",
+    "cname": "阿联酋"
+  },
+  "PL": {
+    "code": "PL",
+    "language": "pl",
+    "timezone": "Europe/Warsaw",
+    "cname": "波兰"
+  },
+  "MC": {
+    "code": "MC",
+    "language": "fr",
+    "timezone": "Europe/Monaco",
+    "cname": "摩纳哥"
+  },
+  "IE": {
+    "code": "IE",
+    "language": "en",
+    "timezone": "Europe/Dublin",
+    "cname": "爱尔兰"
+  },
+  "LA": {
+    "code": "LA",
+    "language": "lo",
+    "timezone": "Asia/Vientiane",
+    "cname": "老挝"
+  },
+  "SY": {
+    "code": "SY",
+    "language": "ar",
+    "timezone": "Asia/Damascus",
+    "cname": "叙利亚"
+  },
+  "LV": {
+    "timezone": "Europe/Riga",
+    "language": "lv",
+    "code": "LV",
+    "cname": "拉脱维亚"
+  },
+  "NL": {
+    "timezone": "Europe/Amsterdam",
+    "language": "nl",
+    "code": "NL",
+    "cname": "荷兰"
+  },
+  "PT": {
+    "timezone": "Europe/Lisbon",
+    "language": "pt",
+    "code": "PT",
+    "cname": "葡萄牙"
+  },
+  "AM": {
+    "timezone": "Asia/Yerevan",
+    "language": "hy",
+    "code": "AM",
+    "cname": "亞美尼亞"
+  },
+  "ES": {
+    "timezone": "Europe/Madrid",
+    "language": "es",
+    "code": "ES",
+    "cname": "西班牙"
+  },
+  "HU": {
+    "timezone": "Europe/Budapest",
+    "language": "hu",
+    "code": "HU",
+    "cname": "匈牙利"
+  },
+  "SK": {
+    "timezone": "Europe/Bratislava",
+    "language": "sk",
+    "code": "SK",
+    "cname": "斯洛伐克"
+  },
+  "SI": {
+    "timezone": "Europe/Ljubljana",
+    "language": "sl",
+    "code": "SI",
+    "cname": "斯洛文尼亚"
+  },
+  "LT": {
+    "timezone": "Europe/Vilnius",
+    "language": "lt",
+    "code": "LT",
+    "cname": "立陶宛"
+  },
+  "GA": {
+    "timezone": "Africa/Libreville",
+    "language": "fr",
+    "code": "GA",
+    "cname": "加蓬"
+  },
+  "TL": {
+    "timezone": "Asia/Dili",
+    "language": "pt",
+    "code": "TL",
+    "cname": "東帝汶"
+  },
+  "RS": {
+    "timezone": "Europe/Belgrade",
+    "language": "sr",
+    "code": "RS",
+    "cname": "塞尔维亚"
+  },
+  "NO": {
+    "timezone": "Europe/Oslo",
+    "language": "no",
+    "code": "NO",
+    "cname": "挪威"
+  },
+  "IS": {
+    "timezone": "Atlantic/Reykjavik",
+    "language": "is",
+    "code": "IS",
+    "cname": "冰島"
+  },
+  "LU": {
+    "timezone": "Europe/Luxembourg",
+    "language": "lb",
+    "code": "LU",
+    "cname": "卢森堡"
+  },
+  "ME": {
+    "timezone": "Europe/Podgorica",
+    "language": "sr,bs,sq,hr",
+    "code": "ME",
+    "cname": "黑山共和国"
+  },
+  "TM": {
+    "timezone": "Asia/Ashgabat",
+    "language": "tk",
+    "code": "TM",
+    "cname": "土库曼斯坦"
+  },
+  "DZ": {
+    "timezone": "Africa/Algiers",
+    "language": "ar",
+    "code": "DZ",
+    "cname": "阿尔及利亚"
+  },
+  "SE": {
+    "timezone": "Europe/Stockholm",
+    "language": "sv",
+    "code": "SE",
+    "cname": "瑞典"
+  },
+  "RO": {
+    "timezone": "Europe/Bucharest",
+    "language": "ro",
+    "code": "RO",
+    "cname": "罗马尼亚"
+  },
+  "MO": {
+    "timezone": "Asia/Macau",
+    "language": "zh,pt",
+    "code": "MO",
+    "cname": "中国澳门"
+  },
+  "ML": {
+    "timezone": "Africa/Bamako",
+    "language": "fr",
+    "code": "ML",
+    "cname": "马里"
+  },
+  "BH": {
+    "timezone": "Asia/Bahrain",
+    "language": "ar",
+    "code": "BH",
+    "cname": "巴林"
+  },
+  "UA": {
+    "timezone": "Europe/Kiev",
+    "language": "uk",
+    "code": "UA",
+    "cname": "乌克兰"
+  },
+  "USP": {
+    "timezone": "America/New_York",
+    "language": "en",
+    "code": "USP",
+    "cname": "美国（物理)"
+  },
+  "AO": {
+    "timezone": "Africa/Luanda",
+    "language": "pt",
+    "code": "AO",
+    "cname": "安哥拉"
+  },
+  "KE": {
+    "timezone": "Africa/Nairobi",
+    "language": "sw,en",
+    "code": "KE",
+    "cname": "肯尼亚"
+  },
+  "TD": {
+    "timezone": "Africa/N'Djamena",
+    "language": "fr,ar",
+    "code": "TD",
+    "cname": "乍得"
+  },
+  "MS": {
+    "timezone": "America/Montserrat",
+    "language": "en",
+    "code": "MS",
+    "cname": "蒙特塞拉特"
+  },
+  "CG": {
+    "timezone": "Africa/Brazzaville",
+    "language": "fr",
+    "code": "CG",
+    "cname": "刚果"
+  },
+  "TN": {
+    "timezone": "Africa/Tunis",
+    "language": "ar",
+    "code": "TN",
+    "cname": "突尼斯"
+  },
+  "MZ": {
+    "timezone": "Africa/Maputo",
+    "language": "pt",
+    "code": "MZ",
+    "cname": "莫桑比克"
+  },
+  "SN": {
+    "timezone": "Africa/Dakar",
+    "language": "fr",
+    "code": "SN",
+    "cname": "塞内加尔"
+  },
+  "PG": {
+    "timezone": "Pacific/Port_Moresby",
+    "language": "en",
+    "code": "PG",
+    "cname": "巴布亞新幾內亞"
+  },
+  "NA": {
+    "timezone": "Africa/Windhoek",
+    "language": "en",
+    "code": "NA",
+    "cname": "納米比亞"
+  },
+  "ET": {
+    "timezone": "Africa/Addis_Ababa",
+    "language": "am",
+    "code": "ET",
+    "cname": "埃塞俄比亚"
+  },
+  "LY": {
+    "timezone": "Africa/Tripoli",
+    "language": "ar",
+    "code": "LY",
+    "cname": "利比亞"
+  },
+  "NE": {
+    "timezone": "Africa/Niamey",
+    "language": "fr",
+    "code": "NE",
+    "cname": "尼日爾"
+  },
+  "PK": {
+    "timezone": "Asia/Karachi",
+    "language": "ur,en",
+    "code": "PK",
+    "cname": "巴基斯坦"
+  },
+  "LS": {
+    "timezone": "Africa/Maseru",
+    "language": "en,st",
+    "code": "LS",
+    "cname": "萊索托"
+  },
+  "UG": {
+    "timezone": "Africa/Kampala",
+    "language": "en,sw",
+    "code": "UG",
+    "cname": "乌干达"
+  },
+  "ZM": {
+    "timezone": "Africa/Lusaka",
+    "language": "en",
+    "code": "ZM",
+    "cname": "贊比亞"
+  },
+  "MG": {
+    "timezone": "Indian/Antananarivo",
+    "language": "fr,mg",
+    "code": "MG",
+    "cname": "马达加斯加"
+  },
+  "MM": {
+    "timezone": "Asia/Yangon",
+    "language": "my",
+    "code": "MM",
+    "cname": "缅甸"
+  },
+  "TG": {
+    "timezone": "Africa/Lome",
+    "language": "fr",
+    "code": "TG",
+    "cname": "多哥"
+  },
+  "GH": {
+    "timezone": "Africa/Accra",
+    "language": "en",
+    "code": "GH",
+    "cname": "加纳"
+  },
+  "BW": {
+    "timezone": "Africa/Gaborone",
+    "language": "en",
+    "code": "BW",
+    "cname": "博茨瓦納"
+  },
+  "GM": {
+    "timezone": "Africa/Banjul",
+    "language": "en",
+    "code": "GM",
+    "cname": "冈比亚"
+  },
+  "BS": {
+    "timezone": "America/Nassau",
+    "language": "en",
+    "code": "BS",
+    "cname": "巴哈馬"
+  },
+  "FJ": {
+    "timezone": "Pacific/Fiji",
+    "language": "en",
+    "code": "FJ",
+    "cname": "斐濟"
+  },
+  "SO": {
+    "timezone": "Africa/Mogadishu",
+    "language": "so,ar",
+    "code": "SO",
+    "cname": "索馬里"
+  },
+  "BJ": {
+    "timezone": "Africa/Porto-Novo",
+    "language": "fr",
+    "code": "BJ",
+    "cname": "貝寧"
+  },
+  "CI": {
+    "timezone": "Africa/Abidjan",
+    "language": "fr",
+    "code": "CI",
+    "cname": "象牙海岸"
+  },
+  "KH": {
+    "timezone": "Asia/Phnom_Penh",
+    "language": "km",
+    "code": "KH",
+    "cname": "柬埔寨"
+  },
+  "CM": {
+    "timezone": "Africa/Douala",
+    "language": "fr,en",
+    "code": "CM",
+    "cname": "喀麦隆"
+  },
+  "BI": {
+    "timezone": "Africa/Bujumbura",
+    "language": "fr,rn",
+    "code": "BI",
+    "cname": "布隆迪"
+  },
+  "LR": {
+    "timezone": "Africa/Monrovia",
+    "language": "en",
+    "code": "LR",
+    "cname": "利比里亞"
+  },
+  "GW": {
+    "timezone": "Africa/Bissau",
+    "language": "pt",
+    "code": "GW",
+    "cname": "幾內亞比紹"
+  },
+  "MK": {
+    "timezone": "Europe/Skopje",
+    "language": "mk",
+    "code": "MK",
+    "cname": "北馬其頓"
+  },
+  "AW": {
+    "timezone": "America/Aruba",
+    "language": "nl,pap",
+    "code": "AW",
+    "cname": "阿魯巴島"
+  },
+  "KM": {
+    "timezone": "Indian/Comoro",
+    "language": "ar,fr",
+    "code": "KM",
+    "cname": "科摩羅"
+  },
+  "ZW": {
+    "timezone": "Africa/Harare",
+    "language": "en",
+    "code": "ZW",
+    "cname": "津巴布韋"
+  },
+  "RW": {
+    "timezone": "Africa/Kigali",
+    "language": "rw,en,fr",
+    "code": "RW",
+    "cname": "盧旺達"
+  },
+  "LC": {
+    "timezone": "America/St_Lucia",
+    "language": "en",
+    "code": "LC",
+    "cname": "圣卢西亚"
+  },
+  "MW": {
+    "timezone": "Africa/Blantyre",
+    "language": "en,ny",
+    "code": "MW",
+    "cname": "馬拉維"
+  },
+  "MU": {
+    "timezone": "Indian/Mauritius",
+    "language": "en",
+    "code": "MU",
+    "cname": "毛里求斯"
+  },
+  "MR": {
+    "timezone": "Africa/Nouakchott",
+    "language": "ar",
+    "code": "MR",
+    "cname": "毛里塔尼亞"
+  },
+  "SS": {
+    "timezone": "Africa/Juba",
+    "language": "en",
+    "code": "SS",
+    "cname": "南蘇丹"
+  },
+  "GQ": {
+    "timezone": "Africa/Malabo",
+    "language": "es,fr",
+    "code": "GQ",
+    "cname": "赤道几内亚"
+  },
+  "CF": {
+    "timezone": "Africa/Bangui",
+    "language": "fr,sg",
+    "code": "CF",
+    "cname": "中非共和國"
+  },
+  "SL": {
+    "timezone": "Africa/Freetown",
+    "language": "en",
+    "code": "SL",
+    "cname": "塞拉利昂"
+  },
+  "SZ": {
+    "timezone": "Africa/Mbabane",
+    "language": "en,ss",
+    "code": "SZ",
+    "cname": "斯威士蘭"
+  },
+  "AI": {
+    "timezone": "America/Anguilla",
+    "language": "en",
+    "code": "AI",
+    "cname": "安圭拉島"
+  },
+  "CH": {
+    "timezone": "Europe/Zurich",
+    "language": "de,fr,it,rm",
+    "code": "CH",
+    "cname": "瑞士"
+  },
+  "ST": {
+    "timezone": "Africa/Sao_Tome",
+    "language": "pt",
+    "code": "ST",
+    "cname": "聖多美和普林西比"
+  },
+  "BB": {
+    "timezone": "America/Barbados",
+    "language": "en",
+    "code": "BB",
+    "cname": "巴巴多斯"
+  },
+  "SC": {
+    "timezone": "Indian/Mahe",
+    "language": "en,fr",
+    "code": "SC",
+    "cname": "塞舌爾共和國"
+  },
+  "TZ": {
+    "timezone": "Africa/Dar_es_Salaam",
+    "language": "sw,en",
+    "code": "TZ",
+    "cname": "坦桑尼亚"
+  },
+  "KN": {
+    "timezone": "America/St_Kitts",
+    "language": "en",
+    "code": "KN",
+    "cname": "聖基茨和尼維斯"
+  },
+  "NC": {
+    "timezone": "Pacific/Noumea",
+    "language": "fr",
+    "code": "NC",
+    "cname": "新喀裡多尼亞"
+  },
+  "TJ": {
+    "timezone": "Asia/Dushanbe",
+    "language": "tg,ru",
+    "code": "TJ",
+    "cname": "塔吉克斯坦"
+  },
+  "MD": {
+    "timezone": "Europe/Chisinau",
+    "language": "ro",
+    "code": "MD",
+    "cname": "摩爾多瓦"
+  },
+  "GE": {
+    "timezone": "Asia/Tbilisi",
+    "language": "ka",
+    "code": "GE",
+    "cname": "格鲁吉亚"
+  },
+  "BF": {
+    "timezone": "Africa/Ouagadougou",
+    "language": "fr",
+    "code": "BF",
+    "cname": "布基納法索"
+  },
+  "CN": {
+    "timezone": "Asia/Shanghai",
+    "language": "zh",
+    "code": "CN",
+    "cname": "中国"
+  },
+  "QA": {
+    "timezone": "Asia/Qatar",
+    "language": "ar",
+    "code": "QA",
+    "cname": "卡塔尔"
+  },
+  "BN": {
+    "timezone": "Asia/Brunei",
+    "language": "ms",
+    "code": "BN",
+    "cname": "文萊"
+  },
+  "GP": {
+    "timezone": "America/Guadeloupe",
+    "language": "fr",
+    "code": "GP",
+    "cname": "瓜德罗普岛"
+  },
+  "ER": {
+    "timezone": "Africa/Asmara",
+    "language": "ti,ar,en",
+    "code": "ER",
+    "cname": "厄立特里亞"
+  },
+  "AG": {
+    "timezone": "America/Antigua",
+    "language": "en",
+    "code": "AG",
+    "cname": "安提瓜和巴布达"
+  },
+  "DJ": {
+    "timezone": "Africa/Djibouti",
+    "language": "fr,ar",
+    "code": "DJ",
+    "cname": "吉布地"
+  },
+  "KY": {
+    "timezone": "America/Cayman",
+    "language": "en",
+    "code": "KY",
+    "cname": "开曼群岛"
+  },
+  "GD": {
+    "timezone": "America/Grenada",
+    "language": "en",
+    "code": "GD",
+    "cname": "格林纳達"
+  },
+  "CV": {
+    "timezone": "Atlantic/Cape_Verde",
+    "language": "pt",
+    "code": "CV",
+    "cname": "佛得角"
+  },
+  "VC": {
+    "timezone": "America/St_Vincent",
+    "language": "en",
+    "code": "VC",
+    "cname": "圣文森特和格林纳丁斯"
+  },
+  "DM": {
+    "timezone": "America/Dominica",
+    "language": "en",
+    "code": "DM",
+    "cname": "多米尼加"
+  }
+}
