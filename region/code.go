@@ -386,4 +386,10 @@ const (
 	CodeVC // VC
 	// 多米尼加
 	CodeDM // DM
+	// 所罗门群岛
+	CodeSB // SB
+	// 汤加王国
+	CodeTO // TO
+	// 不丹
+	CodeBT // BT
 )

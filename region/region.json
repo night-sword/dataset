@@ -945,7 +945,7 @@
     "timezone": "Africa/Kigali",
     "language": "rw,en,fr",
     "code": "RW",
-    "cname": "盧旺達"
+    "cname": "卢旺达"
   },
   "LC": {
     "timezone": "America/St_Lucia",
@@ -1144,5 +1144,23 @@
     "language": "en",
     "code": "DM",
     "cname": "多米尼加"
+  },
+  "SB": {
+    "timezone": "Pacific/Guadalcanal",
+    "language": "en",
+    "code": "SB",
+    "cname": "所罗门群岛"
+  },
+  "TO": {
+    "timezone": "Pacific/Tongatapu",
+    "language": "en",
+    "code": "TO",
+    "cname": "汤加王国"
+  },
+  "BT": {
+    "timezone": "Asia/Thimphu",
+    "language": "dz",
+    "code": "BT",
+    "cname": "不丹"
   }
 }
