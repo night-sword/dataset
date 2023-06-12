@@ -392,4 +392,14 @@ const (
 	CodeTO // TO
 	// 不丹
 	CodeBT // BT
+	// 民主刚果（刚果金）
+	CodeCD // CD
+	// 列支敦士登
+	CodeLI // LI
+	// 留尼汪
+	CodeRE // RE
+	// 萨摩亚
+	CodeWS // WS
+	// 圣马丁
+	CodeSX // SX
 )

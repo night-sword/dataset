@@ -1162,5 +1162,35 @@
     "language": "dz",
     "code": "BT",
     "cname": "不丹"
+  },
+  "CD": {
+    "timezone": "Africa/Kinshasa",
+    "language": "fr",
+    "code": "CD",
+    "cname": "民主刚果"
+  },
+  "LI": {
+    "timezone": "Europe/Vaduz",
+    "language": "de",
+    "code": "LI",
+    "cname": "列支敦士登"
+  },
+  "RE": {
+    "timezone": "Indian/Reunion",
+    "language": "fr",
+    "code": "RE",
+    "cname": "留尼汪"
+  },
+  "WS": {
+    "timezone": "Pacific/Apia",
+    "language": "sm",
+    "code": "WS",
+    "cname": "萨摩亚"
+  },
+  "SX": {
+    "timezone": "America/Lower_Princes",
+    "language": "nl",
+    "code": "SX",
+    "cname": "圣马丁"
   }
 }
